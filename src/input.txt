@@ -1,0 +1,8 @@
+#include <iostream>
+int main(){
+    if(5 > 1){
+        bool c = falser;
+    }
+    int a = 5;
+    cout << a;
+}
